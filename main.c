@@ -1,3 +1,7 @@
+//Lauren Head
+//Quiz 2
+//Subset Sum
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdbool.h>
